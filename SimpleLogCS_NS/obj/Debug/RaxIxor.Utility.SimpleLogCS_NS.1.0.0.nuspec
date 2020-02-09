@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RaxIxor.Utility.SimpleLogCS_NS</id>
+    <version>1.0.0</version>
+    <authors>Rax Ixor</authors>
+    <owners>Rax Ixor</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/raxixor/SimpleLogCS/tree/netstandard</projectUrl>
+    <description>A very simple logging framework, now in NetStandard.</description>
+    <releaseNotes>Just copied everything over to NetStandard from Net Framework.</releaseNotes>
+    <copyright>Rax Ixor</copyright>
+    <tags>logging simple utility</tags>
+    <repository type="git" url="https://github.com/raxixor/SimpleLogCS/tree/netstandard" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Programming\SimpleLogCS_NS\SimpleLogCS_NS\bin\Debug\netstandard2.0\SimpleLogCS_NS.dll" target="lib\netstandard2.0\SimpleLogCS_NS.dll" />
+  </files>
+</package>
