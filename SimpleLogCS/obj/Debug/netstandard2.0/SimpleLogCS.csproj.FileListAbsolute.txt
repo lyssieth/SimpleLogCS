@@ -1,0 +1,8 @@
+/home/raxix/Programming/SimpleLogCS/SimpleLogCS/bin/Debug/netstandard2.0/SimpleLogCS.deps.json
+/home/raxix/Programming/SimpleLogCS/SimpleLogCS/bin/Debug/netstandard2.0/SimpleLogCS.dll
+/home/raxix/Programming/SimpleLogCS/SimpleLogCS/bin/Debug/netstandard2.0/SimpleLogCS.pdb
+/home/raxix/Programming/SimpleLogCS/SimpleLogCS/obj/Debug/netstandard2.0/SimpleLogCS.csprojAssemblyReference.cache
+/home/raxix/Programming/SimpleLogCS/SimpleLogCS/obj/Debug/netstandard2.0/SimpleLogCS.AssemblyInfoInputs.cache
+/home/raxix/Programming/SimpleLogCS/SimpleLogCS/obj/Debug/netstandard2.0/SimpleLogCS.AssemblyInfo.cs
+/home/raxix/Programming/SimpleLogCS/SimpleLogCS/obj/Debug/netstandard2.0/SimpleLogCS.dll
+/home/raxix/Programming/SimpleLogCS/SimpleLogCS/obj/Debug/netstandard2.0/SimpleLogCS.pdb

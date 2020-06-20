@@ -78,6 +78,7 @@ namespace SimpleLog {
         /// <param name="msg">The message to log.</param>
         /// <param name="level">Level of the message to log.</param>
         public void Log(object msg, Level level) {
+            OnLog?.Invoke(this, new LogArgs(this, level, msg));
             if (level.GetPriority < (Level?.GetPriority ?? GlobalLevel.GetPriority))
                 return;
 
@@ -120,6 +121,7 @@ namespace SimpleLog {
             var time = DateTime.Now.ToString("HH:mm:ss");
 
             if (msg is Exception e) {
+                OnError?.Invoke(this, new ErrorArgs(this, e));
                 return $"{time} [{level}]: {e.GetType()} {e.Message}: {e.Source} {e.TargetSite}";
             }
             return $"{time} [{level}]: {msg}";
@@ -149,7 +151,7 @@ namespace SimpleLog {
         /// <summary>
         /// Info level, and below
         /// </summary>
-        public static readonly Level Info = new Level("Info", 3);
+        public static readonly Level Info = new Level("Info", 3, false, ConsoleColor.Gray);
 
         /// <summary>
         /// Warning level, and below
