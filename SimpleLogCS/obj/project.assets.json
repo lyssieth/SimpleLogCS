@@ -180,26 +180,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\raxix\\.nuget\\packages\\": {}
+    "/home/raxix/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\SimpleLogCS_NS\\SimpleLogCS_NS\\SimpleLogCS_NS.csproj",
-      "projectName": "RaxIxor.Utility.SimpleLogCS_NS",
-      "projectPath": "D:\\Programming\\SimpleLogCS_NS\\SimpleLogCS_NS\\SimpleLogCS_NS.csproj",
-      "packagesPath": "C:\\Users\\raxix\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\SimpleLogCS_NS\\SimpleLogCS_NS\\obj\\",
+      "projectUniqueName": "/home/raxix/Programming/SimpleLogCS/SimpleLogCS/SimpleLogCS.csproj",
+      "projectName": "SimpleLogCS",
+      "projectPath": "/home/raxix/Programming/SimpleLogCS/SimpleLogCS/SimpleLogCS.csproj",
+      "packagesPath": "/home/raxix/.nuget/packages/",
+      "outputPath": "/home/raxix/Programming/SimpleLogCS/SimpleLogCS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\raxix\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/raxix/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -233,7 +231,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.103/RuntimeIdentifierGraph.json"
       }
     }
   }

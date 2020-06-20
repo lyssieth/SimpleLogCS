@@ -1,8 +1,0 @@
-D:\Programming\SimpleLogCS_NS\SimpleLogCS_NS\bin\Debug\netstandard2.0\SimpleLogCS_NS.deps.json
-D:\Programming\SimpleLogCS_NS\SimpleLogCS_NS\bin\Debug\netstandard2.0\SimpleLogCS_NS.dll
-D:\Programming\SimpleLogCS_NS\SimpleLogCS_NS\bin\Debug\netstandard2.0\SimpleLogCS_NS.pdb
-D:\Programming\SimpleLogCS_NS\SimpleLogCS_NS\obj\Debug\netstandard2.0\SimpleLogCS_NS.csprojAssemblyReference.cache
-D:\Programming\SimpleLogCS_NS\SimpleLogCS_NS\obj\Debug\netstandard2.0\SimpleLogCS_NS.AssemblyInfoInputs.cache
-D:\Programming\SimpleLogCS_NS\SimpleLogCS_NS\obj\Debug\netstandard2.0\SimpleLogCS_NS.AssemblyInfo.cs
-D:\Programming\SimpleLogCS_NS\SimpleLogCS_NS\obj\Debug\netstandard2.0\SimpleLogCS_NS.dll
-D:\Programming\SimpleLogCS_NS\SimpleLogCS_NS\obj\Debug\netstandard2.0\SimpleLogCS_NS.pdb
